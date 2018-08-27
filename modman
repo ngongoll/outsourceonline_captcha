@@ -1,0 +1,8 @@
+app/code/community/OutsourceOnline/Captcha app/code/community/OutsourceOnline/Captcha
+
+app/design/frontend/base/default/layout/OutsourceOnline_Captcha.xml app/design/frontend/base/default/layout/OutsourceOnline_Captcha.xml
+app/design/frontend/base/default/template/outsourceOnline/captcha app/design/frontend/base/default/template/outsourceOnline/captcha
+
+app/etc/modules/OutsourceOnline_Captcha.xml app/etc/modules/OutsourceOnline_Captcha.xml
+
+app/locale/en_US/OutsourceOnline_Captcha.csv app/locale/en_US/OutsourceOnline_Captcha.csv
